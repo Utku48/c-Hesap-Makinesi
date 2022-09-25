@@ -1,0 +1,11 @@
+C:\Users\Borko\Desktop\C# proje\Hand Calculator\Hand Calculator\bin\Debug\Hand Calculator.exe.config
+C:\Users\Borko\Desktop\C# proje\Hand Calculator\Hand Calculator\bin\Debug\Hand Calculator.exe
+C:\Users\Borko\Desktop\C# proje\Hand Calculator\Hand Calculator\bin\Debug\Hand Calculator.pdb
+C:\Users\Borko\Desktop\C# proje\Hand Calculator\Hand Calculator\obj\Debug\Hand Calculator.csproj.AssemblyReference.cache
+C:\Users\Borko\Desktop\C# proje\Hand Calculator\Hand Calculator\obj\Debug\Hand Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Borko\Desktop\C# proje\Hand Calculator\Hand Calculator\obj\Debug\Hand_Calculator.Form1.resources
+C:\Users\Borko\Desktop\C# proje\Hand Calculator\Hand Calculator\obj\Debug\Hand_Calculator.Properties.Resources.resources
+C:\Users\Borko\Desktop\C# proje\Hand Calculator\Hand Calculator\obj\Debug\Hand Calculator.csproj.GenerateResource.cache
+C:\Users\Borko\Desktop\C# proje\Hand Calculator\Hand Calculator\obj\Debug\Hand Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Borko\Desktop\C# proje\Hand Calculator\Hand Calculator\obj\Debug\Hand Calculator.exe
+C:\Users\Borko\Desktop\C# proje\Hand Calculator\Hand Calculator\obj\Debug\Hand Calculator.pdb
